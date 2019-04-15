@@ -10,7 +10,7 @@ import {
 import { DrawerNavigator } from 'react-navigation'
 import estrela from '../assets/estrela.png';
 
-class HospitalScreen extends Component {
+ class HospitalScreen extends Component {
   state = {
     hospitals: [{
       name: 'Hospital Miguel Couto',

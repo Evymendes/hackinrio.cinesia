@@ -5,6 +5,7 @@ import {
   TouchableOpacity,
   Image
 } from 'react-native';
+
 import { DrawerNavigator } from 'react-navigation';
 
 // Images

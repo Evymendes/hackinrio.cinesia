@@ -1,5 +1,5 @@
 //Libs
-import React, { Component } from 'react';
+ import React, { Component } from 'react';
 import {
   View,
   Text,
@@ -12,7 +12,7 @@ class MainScreen extends Component {
   state = {};
 
   handleHealthPress = () => {
-    this.props.navigation.navigate('Option');
+    this.props.navigation.navigate('Password');
   }
 
   render() {
